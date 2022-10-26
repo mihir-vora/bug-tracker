@@ -1,0 +1,48 @@
+Bug tracking enables users to enter bug reports directly into a system that logs and tracks them. Diligent use of a bug tracking system provides a record of a software team's effectiveness. Local bug trackers are often used by teams of application support professionals to keep track of issues communicated to software developers.
+
+Bug tracking systems include a database, which keeps track of facts pertaining to each bug. These facts might include the time a bug was reported, its severity, incorrect program behavior, details on how to recreate the bug,who reported the bug and what the programmers did to fix it. Bug tracking systems are associated with a bug's life cycle, which is tracked through the status assigned to each bug. This allows administrators to set permissions based on a bug's status, move bugs to other statuses or delete them.
+
+--
+Built for software companies, developers, and designers, Userback will save you time by managing feedback for all your projects in one place.
+
+----
+Bug tracking is the process of logging and monitoring bugs or errors during software testing. It is also referred to as defect tracking or issue tracking. Large systems may have hundreds or thousands of defects. Each needs to be evaluated, monitored, and prioritised for debugging. In some cases, bugs may need to be tracked over a long period of time.
+
+"Defect tracking is an important process in software engineering, as complex and business-critical systems have hundreds of defects," says Tutorials Point. One of the challenging factors is managing, evaluating, and prioritising these defects. "The number of defects gets multiplied over a period of time, and to effectively manage them, a defect tracking system is used to make the job easier."
+----
+
+Features:
+
+Create, assign, and track defects
+Traceability between defects, requirements, and tests
+Easily reusable defects, test cases, and test cycles
+Customizable permissions, fields, and reporting
+Intuitive and user-friendly interface
+
+
+
+
+
+In Conclusion
+
+Bug tracking is a complicated process with a lot of moving parts. With a bug tracking tool like Kissflow Workflow, businesses can manage all their bugs in a single interface, collaborate efficiently, and build better applications for their end-users. The platform makes it easier to gain a clear view of each bug, assess priorities, and track their status along the product life cycle. Try Kissflow Workflow today and improve your product development process with ease.
+
+
+
+
+
+Sign up / Log in
+Create, assign, and track defects
+Add Project (Project Name, Select Members)
+	See Project Details
+		View Members / Add Members / search Members(by using username) / remove the Members
+
+		Add New Bug(Bug Title, Description, Priority[Low, Medium, High])
+		Search Bug
+		Sort the bugs by (Newest, Oldest, Title[A-Z], Priority (High-Low), Priority (Low-High), etc...)
+		Bug details / close Bug / Re-open Bug / Update Bug / Delete Bug / Leave A Note
+
+Sort Project By(Newest, Oldest, Name[A-Z], Most Members etc...)
+Search Projects
+Edit the project name
+Delete Project
